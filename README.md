@@ -21,7 +21,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JustLikeCheese&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="JustLikeCheese" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JustLikeCheese" alt="JustLikeCheese" />
 </div>
 
 ---
@@ -84,24 +84,4 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustLikeCheese&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustLikeCheese&layout=compact&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JustLikeCheese&theme=radical" alt="JustLikeCheese's streak"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustLikeCheese&theme=redical&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="JustLikeCheese's Activity Graph"/>
-</div>
-
----
-
-<div align="center">
-  
-### Thanks for visiting! 😄
-
 </div>
