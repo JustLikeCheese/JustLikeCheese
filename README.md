@@ -70,6 +70,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustLikeCheese&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustLikeCheese&layout=compact&theme=default"/>
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=JustLikeCheese&show_icons=true&theme=default&include_all_commits=true&count_private=true"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustLikeCheese&layout=compact&theme=default"/></td>
+</tr>
+</table>
 </div>
