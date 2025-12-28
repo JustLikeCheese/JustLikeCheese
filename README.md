@@ -19,7 +19,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,linux,lua,java,kotlin,bash" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,linux,lua,java,kotlin,bash,c" /><br>
+    <img src="https://skillicons.dev/icons?i=go,vue,html,css,javascript" />
   </a>
 </p>
 
