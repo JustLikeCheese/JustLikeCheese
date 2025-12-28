@@ -19,13 +19,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy-seven-psi.vercel.app/?username=JustLikeCheese" alt="JustLikeCheese" />
-</div>
-
----
-
 ## 🛠️ Languages and Tools
 <div align="center">
   <p>
@@ -67,7 +60,20 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy-seven-psi.vercel.app/?username=JustLikeCheese" alt="JustLikeCheese" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
-[![JustLikeCheese's GitHub stats](https://github-readme-stats-pied-theta-65.vercel.app/api?username=JustLikeCheese&show_icons=true&theme=default&include_all_commits=true&count_private=true)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-pied-theta-65.vercel.app/api?username=JustLikeCheese&show_icons=true&theme=default&include_all_commits=true&count_private=true))
-[![Top Languages](https://github-readme-stats-pied-theta-65.vercel.app/api/top-langs/?username=JustLikeCheese&layout=compact&theme=default)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-pied-theta-65.vercel.app/api/top-langs/?username=JustLikeCheese&layout=compact&theme=default))
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-pied-theta-65.vercel.app/api?username=JustLikeCheese&show_icons=true&theme=default&include_all_commits=true&count_private=true" height="195px" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-pied-theta-65.vercel.app/api/top-langs/?username=JustLikeCheese&layout=compact&theme=default&langs_count=8&card_width=495" height="195px" />
+  </a>
+</div>
