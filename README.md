@@ -26,6 +26,7 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,linux,lua,java,kotlin,bash" />
   </a>
 </p>
+
 ---
 
 ## 🏆 GitHub Trophies
