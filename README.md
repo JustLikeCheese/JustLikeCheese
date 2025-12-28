@@ -27,3 +27,9 @@
 <div align="center">
   <img src="https://github-profile-trophy-seven-psi.vercel.app/?username=JustLikeCheese" alt="JustLikeCheese" />
 </div>
+
+## ⚡ GitHub Commits
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/JustLikeCheese/JustLikeCheese/output/github-contribution-grid-snake-dark.svg" />
+</p>
