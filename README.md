@@ -8,16 +8,12 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 - 💪 Proficient in **Lua**, **Java**, and **C**
 - 🌱 Currently learning **Kotlin** and **Rust**
 - ❤️ Have a special fondness for **Lua**
 - 📫 Contact me at **justlikecheese@outlook.com**
-
----
 
 ## 🛠️ Languages and Tools
 
@@ -26,8 +22,6 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,linux,lua,java,kotlin,bash" />
   </a>
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 <div align="center">
