@@ -21,7 +21,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JustLikeCheese" alt="JustLikeCheese" />
+  <img src="https://github-profile-trophy-git-main-854675824s-projects.vercel.app/?username=JustLikeCheese" alt="JustLikeCheese" />
 </div>
 
 ---
