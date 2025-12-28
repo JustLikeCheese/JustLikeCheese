@@ -20,6 +20,13 @@
 ---
 
 ## 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,linux,lua,java,kotlin,bash" />
+  </a>
+</p>
+
 <div align="center">
   <p>
     <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
