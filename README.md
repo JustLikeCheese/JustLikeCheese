@@ -13,7 +13,6 @@
 - 💪 Proficient in **Lua**, **Java**, and **C**
 - 🌱 Currently learning **Kotlin** and **Rust**
 - ❤️ Have a special fondness for **Lua**
-- 📫 Contact me at **justlikecheese@outlook.com**
 
 ## 🛠️ Languages and Tools
 
