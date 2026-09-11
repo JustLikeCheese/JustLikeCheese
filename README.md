@@ -25,7 +25,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy-seven-psi.vercel.app/?username=JustLikeCheese" alt="JustLikeCheese" />
+  <img src="https://github-trophies.vercel.app/?username=JustLikeCheese" alt="JustLikeCheese" />
 </div>
 
 ## ⚡ GitHub Commits
